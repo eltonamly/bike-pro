@@ -1,0 +1,67 @@
+body{
+	background-image: url(https://i.pinimg.com/originals/52/4d/e4/524de4b54c010b2f2bfe76d065610c1b.jpg);
+	  background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+.div1{
+	background-color: rgb(60, 120, 180 , 0.5);
+	width: 80%;
+	height: 300px;
+	margin: 40px;
+	
+	
+}
+.bikes{
+	width: 150px;
+	height:300px ;
+	display: inline-block;
+	margin: 10px;
+}
+.div2{
+   background-color: rgb(4, 100, 60 , 0.5);
+	width: 80%;
+	height: 600px;
+	margin: 40px;
+	font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    
+}
+.div3{
+	background-color: rgb(230,134,200,0.5);
+	width: 80%;
+	height: 600px;
+	margin: 40px;
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    
+}
+}
+h2{
+	display: inline-block;
+}
+
+.div1{
+	background-color: rgb(60, 120, 180 , 0.5);
+	width: 80%;
+	height: 600px;
+	margin: 40px;
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    
+}
+.water{
+	background-color: rgb(93, 58, 176);
+
+}
